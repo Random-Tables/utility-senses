@@ -1,0 +1,8 @@
+{
+  "collectionID": "colors",
+  "collectionName": "Colors",
+  "category": "Utility",
+  "isUtility": true,
+  "tags": ["names"],
+  "tables": { "light": ["pastel", "nature"] }
+}

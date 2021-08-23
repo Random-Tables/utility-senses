@@ -1,0 +1,10 @@
+{
+	"medieval": {
+		"name": "Castle Name:",
+		"table": ["Wigville", "Tyrist", "Yeville"]
+	},
+	"japan": {
+		"name": "Castle Name:",
+		"table": ["Himejo", "Yurijo", "Kannoji"]
+	}
+}
