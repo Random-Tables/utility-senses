@@ -1,10 +1,10 @@
 {
-	"pastel": {
-		"name": "Pastel colors:",
-		"table": [""]
-	},
-	"nature": {
-		"name": "Nature colors:",
-		"table": [""]
-	}
+  "pastel": {
+    "name": "Pastel colors:",
+    "table": ["soft coral", "slate blue", "pale green", "khaki"]
+  },
+  "nature": {
+    "name": "Nature colors:",
+    "table": ["grass green", "sky blue", "light autumn green"]
+  }
 }
