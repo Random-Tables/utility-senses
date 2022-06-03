@@ -1,0 +1,41 @@
+{
+    "blue": {
+      "table": [
+        "sky blue",
+        "blue",
+        "cobalt",
+        "ocean blue",
+        "azure",
+        "cerulean",
+        "aegean",
+        "berry",
+        "sapphire"
+      ]
+    },
+    "dark": {
+      "table": [
+        "navy",
+        "stormy sky blue",
+        "slate",
+        "deep see",
+        "indigo",
+        "ultramarine",
+        "coastal blue",
+        "dark {{senses/color-blue/blue}}",
+        "desaturated {{senses/color-blue/blue}}"
+      ]
+    },
+    "soft": {
+      "table": [
+        "teal",
+        "cloud",
+        "turquoise",
+        "viridian",
+        "mauve",
+        "bird egg blue",
+        "soft {{senses/color-blue/blue}}",
+        "light {{senses/color-blue/blue}}"
+      ]
+    }
+  }
+  

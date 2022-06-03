@@ -6,6 +6,7 @@
   "tags": ["names"],
   "tables": {
     "color-light": ["pastel", "nature"],
-    "color-red": ["red", "crimson", "dark", "soft"]
+    "color-red": ["red", "crimson", "dark", "soft"],
+    "color-blue": ["blue", "dark", "soft"]
   }
 }
