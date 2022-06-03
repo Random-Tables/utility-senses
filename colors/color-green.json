@@ -1,0 +1,39 @@
+{
+  "green": {
+    "table": [
+      "green",
+      "olive",
+      "juniper",
+      "sage",
+      "fern",
+      "emerald",
+      "mint",
+      "grass green",
+      "cobalt",
+      "jade"
+    ]
+  },
+  "dark": {
+    "table": [
+      "moss",
+      "pine",
+      "meadow green",
+      "deep forest green",
+      "khaki",
+      "dark {{senses/color-green/green}}",
+      "desaturated {{senses/color-green/green}}"
+    ]
+  },
+  "soft": {
+    "table": [
+      "lime",
+      "apple",
+      "pear",
+      "peridot",
+      "lush green",
+      "cool pine",
+      "soft {{senses/color-blue/green}}",
+      "light {{senses/color-blue/green}}"
+    ]
+  }
+}
