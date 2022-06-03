@@ -7,8 +7,6 @@ Utility library for randomised table library, focusing on descriptive terms.
 - colors - soft,light/dark
 - smell - (places) nature/factory/street
 - feel - rough material/ 
-- patterns - specled, striped
-- taste - sour/bad/meat-delicious/savoury-delicious/sweet-delicious
 - sound - temperate-woodland/mountain/street
 
 
