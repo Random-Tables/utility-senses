@@ -18,8 +18,8 @@
     "table": [
       "sanguine",
       "blood red",
-      "dark {{senses/col-red/red}}",
-      "desaturated {{senses/col-red/red}}"
+      "dark {{senses/color-red/red}}",
+      "desaturated {{senses/color-red/red}}"
     ]
   },
   "soft": {
@@ -27,9 +27,10 @@
       "pink coral",
       "coral",
       "rose red",
-      "soft {{senses/col-red/red}}",
+      "soft {{senses/color-red/red}}",
       "orangered",
-      "sepia"
+      "sepia",
+      "salmon"
     ]
   }
 }
