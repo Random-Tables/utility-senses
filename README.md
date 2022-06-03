@@ -12,12 +12,12 @@ Utility library for randomised table library, focusing on descriptive terms.
 
 ## Resources
 
-#### Colors
+#### Colors v1+
 https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/
 https://www.valsparpaint.co.uk/colours/pre-selected-colours/blues/
 https://dalerrowney-corp-live.cphostaccess.com/artists-watercolour-paint-tubes/
 
-#### Smells
+#### Smells v1+
 
 should always play well as
 `{{senses/smell/strength-light}} of {{senses/smell/foul}}`
@@ -26,9 +26,11 @@ as in
 or
 `evocative wisp of rich sap`
 
-#### Feel
+#### Feel v1+
 
 should work with `it felt ...`
 eg:
 - `it felt leathery`
 - `it felt cold`
+
+#### Sound v3+

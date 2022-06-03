@@ -3,7 +3,7 @@
   "collectionName": "Senses",
   "category": "Utility",
   "isUtility": true,
-  "version": 2,
+  "version": 3,
   "tags": ["names"],
   "tables": {
     "color-light": ["pastel", "nature"],
@@ -26,5 +26,16 @@
       "tavern"
     ]
   },
-  "feel": ["hide", "metal", "wood", "plastic", "fabric"]
+  "feel": ["hide", "metal", "wood", "plastic", "fabric"],
+  "sound": [
+    "wood",
+    "mountain",
+    "market",
+    "village-spring",
+    "city-modern",
+    "dock",
+    "factory",
+    "farm",
+    "tavern"
+  ]
 }
