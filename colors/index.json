@@ -3,6 +3,7 @@
   "collectionName": "Senses",
   "category": "Utility",
   "isUtility": true,
+  "version": 2,
   "tags": ["names"],
   "tables": {
     "color-light": ["pastel", "nature"],
