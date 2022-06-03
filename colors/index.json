@@ -24,5 +24,6 @@
       "farm",
       "tavern"
     ]
-  }
+  },
+  "feel": ["hide", "metal", "wood", "plastic", "fabric"]
 }

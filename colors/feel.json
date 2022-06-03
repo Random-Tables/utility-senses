@@ -1,0 +1,34 @@
+{
+  "hide": {
+    "table": [
+      "leathery",
+      "furry",
+      "soft hide",
+      "hairy",
+      "wiry",
+      "fluffy",
+      "fuzzy"
+    ]
+  },
+  "metal": {
+    "table": ["cold", "metallic", "smooth", "rusted", "flaking", "hard"]
+  },
+  "wood": {
+    "table": ["rough", "crumbly", "smooth", "pitted", "antique"]
+  },
+  "plastic": {
+    "table": ["smooth", "plasticy", "flat", "polished", "uniform"]
+  },
+  "fabric": {
+    "table": [
+      "woollen",
+      "rough",
+      "thick stranded",
+      "soft",
+      "silken",
+      "gentle",
+      "comfortable",
+      "velvety"
+    ]
+  }
+}

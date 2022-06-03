@@ -27,3 +27,10 @@ as in
 `stuffy waft of nauseating decay`
 or
 `evocative wisp of rich sap`
+
+#### Feel
+
+should work with `it felt ...`
+eg:
+- `it felt leathery`
+- `it felt cold`
