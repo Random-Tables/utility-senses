@@ -1,8 +1,11 @@
 {
-  "collectionID": "colors",
-  "collectionName": "Colors",
+  "collectionID": "senses",
+  "collectionName": "Senses",
   "category": "Utility",
   "isUtility": true,
   "tags": ["names"],
-  "tables": { "light": ["pastel", "nature"] }
+  "tables": {
+    "color-light": ["pastel", "nature"],
+    "color-red": ["red", "crimson", "dark", "soft"]
+  }
 }

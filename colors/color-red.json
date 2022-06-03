@@ -1,0 +1,35 @@
+{
+  "red": {
+    "table": [
+      "red",
+      "crimson",
+      "rouge",
+      "indian red",
+      "amber",
+      "orange",
+      "clay red",
+      "apricot"
+    ]
+  },
+  "crimson": {
+    "table": ["sanguine", "sky blue", "red rust", "rosy", "tanned"]
+  },
+  "dark": {
+    "table": [
+      "sanguine",
+      "blood red",
+      "dark {{senses/col-red/red}}",
+      "desaturated {{senses/col-red/red}}"
+    ]
+  },
+  "soft": {
+    "table": [
+      "pink coral",
+      "coral",
+      "rose red",
+      "soft {{senses/col-red/red}}",
+      "orangered",
+      "sepia"
+    ]
+  }
+}
