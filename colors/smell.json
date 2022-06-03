@@ -1,0 +1,134 @@
+{
+  "strength-strong": {
+    "table": [
+      "strong smell",
+      "overpowering stink",
+      "strong fragrance",
+      "intoxicating odor",
+      "nasty stench",
+      "pungent odor",
+      "stuffy waft",
+      "reek"
+    ]
+  },
+  "strength-light": {
+    "table": [
+      "aromatic odor",
+      "soft smell",
+      "gentle whiff",
+      "aromatic fragrance",
+      "evocative wisp",
+      "faint smell",
+      "fresh waft",
+      "scent"
+    ]
+  },
+  "strength-random": {
+    "table": [
+      "{{senses/smell/strength-strong}}",
+      "{{senses/smell/strength-light}}"
+    ]
+  },
+  "wood": {
+    "table": [
+      "rich sap",
+      "mulched earth",
+      "wild garlic",
+      "moss",
+      "pine",
+      "loam",
+      "crisp air",
+      "musk",
+      "nectar",
+      "fresh rain"
+    ]
+  },
+  "market": {
+    "table": [
+      "citrus",
+      "fresh fruits",
+      "freshly caught fish",
+      "tanned leather",
+      "fresh bread",
+      "cooked fruit",
+      "fried meats",
+      "picked flowers"
+    ]
+  },
+  "village-spring": {
+    "table": ["flowers", "cut grass", "spring breeze", "fresh air"]
+  },
+  "city-modern": {
+    "table": [
+      "fresh piss",
+      "car exhausts",
+      "cooked meats",
+      "fresh bread",
+      "smog",
+      "coffee",
+      "cold air",
+      "stale air"
+    ]
+  },
+  "dock": {
+    "table": [
+      "fish guts",
+      "fresh catch",
+      "rum",
+      "sweat & cold air",
+      "salty spray",
+      "fish",
+      "tar & pitch",
+      "seasoned oak"
+    ]
+  },
+  "death": {
+    "table": ["fetid air", "nauseating decay", "putrid air", "rancid meat"]
+  },
+  "foul": {
+    "table": [
+      "acrid air",
+      "dampness",
+      "funk",
+      "must",
+      "rank decay",
+      "sickness",
+      "stale air"
+    ]
+  },
+  "factory": {
+    "table": [
+      "antiseptic",
+      "coppery air",
+      "metallic dust",
+      "oil",
+      "grease",
+      "acids",
+      "cleaning chemicals",
+      "hot air"
+    ]
+  },
+  "farm": {
+    "table": [
+      "tilled earth",
+      "floral air",
+      "flowers",
+      "rapeseed",
+      "manure",
+      "livestock",
+      "chickens",
+      "hay"
+    ]
+  },
+  "tavern": {
+    "table": [
+        "beer",
+        "whiskey",
+        "musty sweat and alcohol",
+        "wine",
+        "whiskey",
+        "gin",
+        "piss and beer"
+    ]
+  }
+}
