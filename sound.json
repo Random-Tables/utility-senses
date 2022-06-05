@@ -1,29 +1,77 @@
 {
   "wood": {
-    "table": []
+    "table": [
+      "leaves rustling",
+      "deer calling",
+      "rain spattering",
+      "birds singing"
+    ]
   },
   "mountain": {
-    "table": []
+    "table": [
+      "cold wind blowing",
+      "snow falling",
+      "echoing of crashing stones",
+      "eagles cawing"
+    ]
   },
   "market": {
-    "table": []
+    "table": [
+      "sellers peddling",
+      "bustle of people chatting & haggling",
+      "buskers singing",
+      "children crying & laughing"
+    ]
   },
   "village-spring": {
-    "table": []
+    "table": [
+      "children playing",
+      "birdsong",
+      "sheep baa-ing",
+      "wagon wheels bounding upon cobblestone"
+    ]
   },
   "city-modern": {
-    "table": []
+    "table": [
+      "horns blaring",
+      "people shouting",
+      "buskers playing",
+      "din of human activity"
+    ]
   },
   "dock": {
-    "table": []
+    "table": [
+      "boats creeking",
+      "sails furling",
+      "men shouting",
+      "din of cargo being unloaded"
+    ]
   },
   "factory": {
-    "table": []
+    "table": [
+      "machines chugging",
+      "metal scraping",
+      "hiss of bubbling metal",
+      "men shouting over the loud thumming of machinery",
+      "cogs clanking"
+    ]
   },
   "farm": {
-    "table": []
+    "table": [
+      "cows moowing",
+      "horses neighing",
+      "workman toiling in the fields",
+      "birdsong",
+      "wind through the trees"
+    ]
   },
   "tavern": {
-    "table": []
+    "table": [
+      "men shouting drunkenly",
+      "the barman cursing",
+      "foul language uttered roughly",
+      "rowdyness and gruff words",
+      "drunken laughter"
+    ]
   }
 }

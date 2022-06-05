@@ -34,3 +34,10 @@ eg:
 - `it felt cold`
 
 #### Sound v3+
+
+should work with `you could hear the sound of ...`
+eg:
+- `you could hear the sound of leaves rustling`
+
+##### To Add ?
+human smells
