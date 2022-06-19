@@ -57,5 +57,16 @@
       "{{senses/color-brown/soft}}",
       "{{senses/color-grey/soft}}"
     ]
+  },
+  "midtone": {
+    "table": [
+      "{{senses/color-red/red}}",
+      "{{senses/color-blue/blue}}",
+      "{{senses/color-green/green}}",
+      "{{senses/color-yellow/yellow}}",
+      "{{senses/color-purple/purple}}",
+      "{{senses/color-brown/brown}}",
+      "{{senses/color-grey/grey}}"
+    ]
   }
 }

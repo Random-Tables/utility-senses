@@ -1,0 +1,55 @@
+{
+  "hide": {
+    "table": [
+      "{{senses/color-brown/soft}}",
+      "{{senses/color-brown/brown}}",
+      "{{senses/color-brown/dark}}",
+      "{{senses/color-light/cream}}",
+      "{{senses/color-grey/soft}}",
+      "{{senses/color-dark/offblack}}"
+    ]
+  },
+  "metal-silver": {
+    "table": [
+      "silver",
+      "iron",
+      "steel",
+      "rusted iron",
+      "lead",
+      "cold steel",
+      "gun metal",
+      "wrought iron",
+      "blue steel",
+      "zinc",
+      "silver blue"
+    ]
+  },
+  "metal-copper": {
+    "table": [
+      "copper",
+      "bronze",
+      "shining gold",
+      "reflective brown",
+      "burnet copper",
+      "greened bronze",
+      "copper patina",
+      "brass",
+      "rose gold",
+      "true gold"
+    ]
+  },
+  "wood": {
+    "table": [
+      "{{senses/color-brown/brown}}",
+      "{{senses/color-brown/dark}}",
+      "{{senses/color-brown/soft}}"
+    ]
+  },
+  "stone": {
+    "table": [
+      "{{senses/color-grey/brown}}",
+      "{{senses/color-grey/dark}}",
+      "{{senses/color-grey/soft}}",
+      "{{senses/color-dark/offblack}}"]
+  }
+}
