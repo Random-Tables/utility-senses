@@ -1,10 +1,57 @@
 {
+  "cream": {
+    "table": [
+      "white",
+      "pearl",
+      "alabaster",
+      "snow",
+      "ivory",
+      "cream",
+      "egg shell",
+      "cotton",
+      "lace",
+      "coconut",
+      "bone",
+      "powder",
+      "frost",
+      "porclain",
+      "parchment"
+    ]
+  },
   "pastel": {
     "name": "Pastel colors:",
-    "table": ["soft coral", "slate blue", "pale green", "khaki"]
+    "table": [
+      "soft coral",
+      "slate blue",
+      "pale green",
+      "soft sepia",
+      "daffodil",
+      "lemon chello",
+      "blush",
+      "rose",
+      "salmon",
+      "peach",
+      "lavendar",
+      "lilac",
+      "sage",
+      "mint",
+      "duck egg",
+      "baby blue",
+      "jade green",
+      "vanilla",
+      "warm cloud",
+      "dusty pink"
+    ]
   },
   "nature": {
     "name": "Nature colors:",
     "table": ["grass green", "sky blue", "light autumn green"]
+  },
+  "soft": {
+    "table": [
+      "{{senses/color-blue/soft}}",
+      "{{senses/color-red/soft}}",
+      "{{senses/color-green/soft}}"
+    ]
   }
 }

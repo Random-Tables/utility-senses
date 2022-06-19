@@ -6,7 +6,7 @@
   "version": 3,
   "tags": ["names"],
   "tables": {
-    "color-light": ["pastel", "nature"],
+    "color-light": ["cream", "pastel", "nature", "soft"],
     "color-red": ["red", "crimson", "dark", "soft"],
     "color-blue": ["blue", "dark", "soft"],
     "color-green": ["green", "dark", "soft"],
