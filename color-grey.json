@@ -1,0 +1,43 @@
+{
+  "grey": {
+    "table": [
+      "grey",
+      "shadow",
+      "graphite",
+      "pewter",
+      "smoke",
+      "slate",
+      "ash",
+      "dove",
+      "fog",
+      "flint",
+      "lead",
+      "fossil"
+    ]
+  },
+  "dark": {
+    "table": [
+      "dark grey",
+      "deep shadow",
+      "iron",
+      "slate",
+      "charcoal",
+      "pebble",
+      "soot",
+      "coal",
+      "grease"
+    ]
+  },
+  "soft": {
+    "table": [
+      "grey",
+      "bone",
+      "salt",
+      "cotton",
+      "linen",
+      "cloud",
+      "silver",
+      "soft smoke"
+    ]
+  }
+}

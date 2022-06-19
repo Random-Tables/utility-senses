@@ -3,7 +3,7 @@
   "collectionName": "Senses",
   "category": "Utility",
   "isUtility": true,
-  "version": 6,
+  "version": 7,
   "tags": ["names"],
   "tables": {
     "color-light": ["cream", "pastel", "nature", "soft"],
@@ -13,6 +13,7 @@
     "color-yellow": ["yellow", "dark", "soft"],
     "color-purple": ["purple", "dark", "soft"],
     "color-brown": ["brown", "dark", "soft"],
+    "color-grey": ["cream", "dark", "soft"],
     "smell": [
       "strength-strong",
       "strength-light",
