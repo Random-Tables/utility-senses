@@ -1,0 +1,39 @@
+{
+  "purple": {
+    "table": [
+      "purple",
+      "mauve",
+      "violet",
+      "plum",
+      "magenta",
+      "grape",
+      "sangria",
+      "eggplant",
+      "jam",
+      "mulberry",
+      "wine"
+    ]
+  },
+  "dark": {
+    "table": [
+      "ripe plum",
+      "eggplant",
+      "raisin",
+      "dark grape",
+      "deep wine"
+    ]
+  },
+  "soft": {
+    "table": [
+      "gentle mauve",
+      "soft violet",
+      "lavendar",
+      "lilac",
+      "periwinkle",
+      "heather",
+      "iris",
+      "amethyst",
+      "orchid"
+    ]
+  }
+}
