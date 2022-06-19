@@ -49,9 +49,13 @@
   },
   "soft": {
     "table": [
-      "{{senses/color-blue/soft}}",
       "{{senses/color-red/soft}}",
-      "{{senses/color-green/soft}}"
+      "{{senses/color-blue/soft}}",
+      "{{senses/color-green/soft}}",
+      "{{senses/color-yellow/soft}}",
+      "{{senses/color-purple/soft}}",
+      "{{senses/color-brown/soft}}",
+      "{{senses/color-grey/soft}}"
     ]
   }
 }

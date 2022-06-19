@@ -1,0 +1,29 @@
+{
+  "offblack": {
+    "table": [
+      "black",
+      "ebony",
+      "crow",
+      "midnight",
+      "ink",
+      "raven",
+      "oil",
+      "onyx",
+      "pitch",
+      "jet black",
+      "coal",
+      "obsidian"
+    ]
+  },
+  "dark": {
+    "table": [
+      "{{senses/color-red/dark}}",
+      "{{senses/color-blue/dark}}",
+      "{{senses/color-green/dark}}",
+      "{{senses/color-yellow/dark}}",
+      "{{senses/color-purple/dark}}",
+      "{{senses/color-brown/dark}}",
+      "{{senses/color-grey/dark}}"
+    ]
+  }
+}
