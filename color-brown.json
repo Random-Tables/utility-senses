@@ -1,0 +1,47 @@
+{
+  "brown": {
+    "table": [
+      "brown",
+      "coffee",
+      "cedar",
+      "carob",
+      "hickory",
+      "pecan",
+      "caramel",
+      "gingerbread",
+      "chocolate",
+      "tawny",
+      "cinnamon",
+      "umber"
+    ]
+  },
+  "dark": {
+    "table": [
+      "dark brown",
+      "old hickory",
+      "walnut",
+      "ebony",
+      "dark chocolate",
+      "brunette",
+      "mocha"
+    ]
+  },
+  "soft": {
+    "table": [
+      "gentle brown",
+      "peanut",
+      "tortilla",
+      "penny",
+      "granola",
+      "oat",
+      "fawn",
+      "sand",
+      "sepia",
+      "oyster",
+      "biscotti",
+      "hazelnut",
+      "beige",
+      "tan"
+    ]
+  }
+}
