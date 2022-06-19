@@ -1,0 +1,42 @@
+{
+  "yellow": {
+    "table": [
+      "yellow",
+      "canary",
+      "gold",
+      "butter",
+      "bumblebee",
+      "butterscotch",
+      "pineapple",
+      "honey",
+      "blonde"
+    ]
+  },
+  "dark": {
+    "table": [
+      "dark gold",
+      "medallion",
+      "fire",
+      "mustard",
+      "aged corn",
+      "dijon",
+      "flax",
+      "sancastle",
+      "dark honey"
+    ]
+  },
+  "soft": {
+    "table": [
+      "daffodil",
+      "lemon",
+      "banana",
+      "dandelion",
+      "butter",
+      "soft honey",
+      "gentle marigold",
+      "parmesan",
+      "buttermilk",
+      "cream"
+    ]
+  }
+}
