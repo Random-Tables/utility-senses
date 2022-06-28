@@ -41,3 +41,9 @@ eg:
 
 ##### To Add ?
 human smells
+hair smells
+air smells
+
+### Attributions
+
+https://en.wikipedia.org/wiki/Human_hair_color

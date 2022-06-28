@@ -1,19 +1,35 @@
 {
   "offblack": {
     "table": [
-      "black",
       "ebony",
       "crow",
-      "midnight",
       "ink",
       "raven",
-      "oil",
       "onyx",
       "pitch",
-      "jet black",
       "coal",
+      "liquorice",
+      "metropolis",
+      "night shadow",
+      "slate",
+      "stout",
+      "heavy grey"
+    ]
+  },
+  "black": {
+    "table": [
+      "black",
+      "oil",
+      "midnight",
+      "jet black",
+      "black chocolate",
+      "black chocolate",
+      "pot black",
       "obsidian"
     ]
+  },
+  "verydark": {
+    "table": ["{{senses/color-dark/offblack}}", "{{senses/color-dark/black}}"]
   },
   "dark": {
     "table": [
