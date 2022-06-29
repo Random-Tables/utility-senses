@@ -20,7 +20,7 @@ https://dalerrowney-corp-live.cphostaccess.com/artists-watercolour-paint-tubes/
 #### Smells v1+
 
 should always play well as
-`{{senses/smell/strength-light}} of {{senses/smell/foul}}`
+`{{utility-senses/smell/strength-light}} of {{utility-senses/smell/foul}}`
 as in 
 `stuffy waft of nauseating decay`
 or

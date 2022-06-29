@@ -1,10 +1,10 @@
 {
   "hair": {
     "table": [
-      "{{senses/color-dark/offblack}} black",
-      "{{senses/color-brown/brown}} brown",
-      "{{senses/color-brown/dark}}",
-      "{{senses/color-grey/grey}} grey",
+      "{{utility-senses/color-dark/offblack}} black",
+      "{{utility-senses/color-brown/brown}} brown",
+      "{{utility-senses/color-brown/dark}}",
+      "{{utility-senses/color-grey/grey}} grey",
       "auburn",
       "blonde",
       "copper",
@@ -15,10 +15,10 @@
   },
   "eyes": {
     "table": [
-      "{{senses/color-brown/brown}} brown",
-      "{{senses/color-green/green}} green",
-      "{{senses/color-blue/blue}} blue",
-      "{{senses/color-grey/grey}} grey",
+      "{{utility-senses/color-brown/brown}} brown",
+      "{{utility-senses/color-green/green}} green",
+      "{{utility-senses/color-blue/blue}} blue",
+      "{{utility-senses/color-grey/grey}} grey",
       "amber",
       "bright green",
       "hazel"
@@ -26,15 +26,15 @@
   },
   "eyes-all": {
     "table": [
-      "{{senses/body/eyes}} & {{senses/body/eyes}} heterochromic",
-      "{{senses/body/eyes}}"
+      "{{utility-senses/body/eyes}} & {{utility-senses/body/eyes}} heterochromic",
+      "{{utility-senses/body/eyes}}"
     ]
   },
   "skin": {
     "table": [
-      "{{senses/color-dark/offblack}} black",
-      "{{senses/color-brown/brown}} brown",
-      "{{senses/body/eyes}}",
+      "{{utility-senses/color-dark/offblack}} black",
+      "{{utility-senses/color-brown/brown}} brown",
+      "{{utility-senses/body/eyes}}",
       "beige",
       "blush",
       "bronze",

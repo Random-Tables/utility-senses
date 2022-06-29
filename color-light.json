@@ -49,24 +49,24 @@
   },
   "soft": {
     "table": [
-      "{{senses/color-red/soft}}",
-      "{{senses/color-blue/soft}}",
-      "{{senses/color-green/soft}}",
-      "{{senses/color-yellow/soft}}",
-      "{{senses/color-purple/soft}}",
-      "{{senses/color-brown/soft}}",
-      "{{senses/color-grey/soft}}"
+      "{{utility-senses/color-red/soft}}",
+      "{{utility-senses/color-blue/soft}}",
+      "{{utility-senses/color-green/soft}}",
+      "{{utility-senses/color-yellow/soft}}",
+      "{{utility-senses/color-purple/soft}}",
+      "{{utility-senses/color-brown/soft}}",
+      "{{utility-senses/color-grey/soft}}"
     ]
   },
   "midtone": {
     "table": [
-      "{{senses/color-red/red}}",
-      "{{senses/color-blue/blue}}",
-      "{{senses/color-green/green}}",
-      "{{senses/color-yellow/yellow}}",
-      "{{senses/color-purple/purple}}",
-      "{{senses/color-brown/brown}}",
-      "{{senses/color-grey/grey}}"
+      "{{utility-senses/color-red/red}}",
+      "{{utility-senses/color-blue/blue}}",
+      "{{utility-senses/color-green/green}}",
+      "{{utility-senses/color-yellow/yellow}}",
+      "{{utility-senses/color-purple/purple}}",
+      "{{utility-senses/color-brown/brown}}",
+      "{{utility-senses/color-grey/grey}}"
     ]
   }
 }

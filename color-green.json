@@ -19,8 +19,8 @@
       "meadow green",
       "deep forest green",
       "khaki",
-      "dark {{senses/color-green/green}}",
-      "desaturated {{senses/color-green/green}}"
+      "dark {{utility-senses/color-green/green}}",
+      "desaturated {{utility-senses/color-green/green}}"
     ]
   },
   "soft": {
@@ -31,8 +31,8 @@
       "peridot",
       "lush green",
       "cool pine",
-      "soft {{senses/color-blue/green}}",
-      "light {{senses/color-blue/green}}"
+      "soft {{utility-senses/color-blue/green}}",
+      "light {{utility-senses/color-blue/green}}"
     ]
   }
 }

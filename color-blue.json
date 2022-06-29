@@ -21,8 +21,8 @@
       "indigo",
       "ultramarine",
       "coastal blue",
-      "dark {{senses/color-blue/blue}}",
-      "desaturated {{senses/color-blue/blue}}"
+      "dark {{utility-senses/color-blue/blue}}",
+      "desaturated {{utility-senses/color-blue/blue}}"
     ]
   },
   "soft": {
@@ -33,8 +33,8 @@
       "viridian",
       "mauve",
       "bird egg blue",
-      "soft {{senses/color-blue/blue}}",
-      "light {{senses/color-blue/blue}}"
+      "soft {{utility-senses/color-blue/blue}}",
+      "light {{utility-senses/color-blue/blue}}"
     ]
   }
 }

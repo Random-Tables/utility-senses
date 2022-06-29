@@ -29,17 +29,17 @@
     ]
   },
   "verydark": {
-    "table": ["{{senses/color-dark/offblack}}", "{{senses/color-dark/black}}"]
+    "table": ["{{utility-senses/color-dark/offblack}}", "{{utility-senses/color-dark/black}}"]
   },
   "dark": {
     "table": [
-      "{{senses/color-red/dark}}",
-      "{{senses/color-blue/dark}}",
-      "{{senses/color-green/dark}}",
-      "{{senses/color-yellow/dark}}",
-      "{{senses/color-purple/dark}}",
-      "{{senses/color-brown/dark}}",
-      "{{senses/color-grey/dark}}"
+      "{{utility-senses/color-red/dark}}",
+      "{{utility-senses/color-blue/dark}}",
+      "{{utility-senses/color-green/dark}}",
+      "{{utility-senses/color-yellow/dark}}",
+      "{{utility-senses/color-purple/dark}}",
+      "{{utility-senses/color-brown/dark}}",
+      "{{utility-senses/color-grey/dark}}"
     ]
   }
 }

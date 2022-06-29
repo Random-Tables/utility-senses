@@ -1,12 +1,12 @@
 {
   "hide": {
     "table": [
-      "{{senses/color-brown/soft}}",
-      "{{senses/color-brown/brown}}",
-      "{{senses/color-brown/dark}}",
-      "{{senses/color-light/cream}}",
-      "{{senses/color-grey/soft}}",
-      "{{senses/color-dark/offblack}}"
+      "{{utility-senses/color-brown/soft}}",
+      "{{utility-senses/color-brown/brown}}",
+      "{{utility-senses/color-brown/dark}}",
+      "{{utility-senses/color-light/cream}}",
+      "{{utility-senses/color-grey/soft}}",
+      "{{utility-senses/color-dark/offblack}}"
     ]
   },
   "metal-silver": {
@@ -40,16 +40,16 @@
   },
   "wood": {
     "table": [
-      "{{senses/color-brown/brown}}",
-      "{{senses/color-brown/dark}}",
-      "{{senses/color-brown/soft}}"
+      "{{utility-senses/color-brown/brown}}",
+      "{{utility-senses/color-brown/dark}}",
+      "{{utility-senses/color-brown/soft}}"
     ]
   },
   "stone": {
     "table": [
-      "{{senses/color-grey/brown}}",
-      "{{senses/color-grey/dark}}",
-      "{{senses/color-grey/soft}}",
-      "{{senses/color-dark/offblack}}"]
+      "{{utility-senses/color-grey/brown}}",
+      "{{utility-senses/color-grey/dark}}",
+      "{{utility-senses/color-grey/soft}}",
+      "{{utility-senses/color-dark/offblack}}"]
   }
 }
