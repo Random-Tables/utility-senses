@@ -3,7 +3,7 @@
   "collectionName": "Senses",
   "category": "Utility",
   "isUtility": true,
-  "version": 9,
+  "version": 10,
   "tags": ["names"],
   "tables": {
     "color-light": ["cream", "pastel", "nature", "soft", "midtone"],
@@ -44,5 +44,5 @@
     "farm",
     "tavern"
   ],
-  "body": []
+  "body": ["hair", "eyes", "eyes-all", "skin"]
 }

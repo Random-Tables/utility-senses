@@ -1,37 +1,60 @@
 {
-    "hair": {
-      "table": [
-        "{{senses/color-dark/offblack}} black",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    "eyes": {
-      "table": [
-        "bright green",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    "skin": {
-      "table": [
-        "alabaster",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
+  "hair": {
+    "table": [
+      "{{senses/color-dark/offblack}} black",
+      "{{senses/color-brown/brown}} brown",
+      "{{senses/color-brown/dark}}",
+      "{{senses/color-grey/grey}} grey",
+      "auburn",
+      "blonde",
+      "copper",
+      "red",
+      "strawberry blonde",
+      "white"
+    ]
+  },
+  "eyes": {
+    "table": [
+      "{{senses/color-brown/brown}} brown",
+      "{{senses/color-green/green}} green",
+      "{{senses/color-blue/blue}} blue",
+      "{{senses/color-grey/grey}} grey",
+      "amber",
+      "bright green",
+      "hazel"
+    ]
+  },
+  "eyes-all": {
+    "table": [
+      "{{senses/body/eyes}} & {{senses/body/eyes}} heterochromic",
+      "{{senses/body/eyes}}"
+    ]
+  },
+  "skin": {
+    "table": [
+      "{{senses/color-dark/offblack}} black",
+      "{{senses/color-brown/brown}} brown",
+      "{{senses/body/eyes}}",
+      "beige",
+      "blush",
+      "bronze",
+      "copper",
+      "fawn",
+      "hazel",
+      "hazel",
+      "mahogany",
+      "ochre",
+      "olive",
+      "rose",
+      "sand",
+      "sienna",
+      "tan",
+      "taupe",
+      "tawny",
+      "teak",
+      "umber",
+      "walnut",
+      "wheat"
+    ]
   }
-  
+}
