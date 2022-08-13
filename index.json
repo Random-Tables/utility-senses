@@ -30,19 +30,19 @@
       "factory",
       "farm",
       "tavern"
-    ]
-  },
-  "feel": ["hide", "metal", "wood", "plastic", "fabric"],
-  "sound": [
-    "wood",
-    "mountain",
-    "market",
-    "village-spring",
-    "city-modern",
-    "dock",
-    "factory",
-    "farm",
-    "tavern"
-  ],
-  "body": ["hair", "eyes", "eyes-all", "skin"]
+    ],
+    "feel": ["hide", "metal", "wood", "plastic", "fabric"],
+    "sound": [
+      "wood",
+      "mountain",
+      "market",
+      "village-spring",
+      "city-modern",
+      "dock",
+      "factory",
+      "farm",
+      "tavern"
+    ],
+    "body": ["hair", "eyes", "eyes-all", "skin"]
+  }
 }
