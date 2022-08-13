@@ -1,0 +1,19 @@
+{
+  "name": "@random-tables/utility-senses",
+  "version": "1.10.2",
+  "description": "tables data for senses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-Tables/utility-senses.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-Tables/utility-senses/issues"
+  },
+  "homepage": "https://github.com/Random-Tables/utility-senses#readme"
+}
