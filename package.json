@@ -1,6 +1,6 @@
 {
   "name": "@random-tables/utility-senses",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "description": "tables data for senses",
   "main": "index.js",
   "scripts": {

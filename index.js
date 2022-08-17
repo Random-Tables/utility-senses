@@ -14,7 +14,7 @@ const feel = require("./feel.json");
 const sound = require("./sound.json");
 const body = require("./body.json");
 
-exports.index = {
+module.exports = {
   ...index,
   tableData: {
     "color-light": colorLight,
