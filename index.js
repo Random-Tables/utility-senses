@@ -13,6 +13,7 @@ const smell = require("./smell.json");
 const feel = require("./feel.json");
 const sound = require("./sound.json");
 const body = require("./body.json");
+const calls = require("./calls.json");
 
 module.exports = {
   ...index,
@@ -32,4 +33,5 @@ module.exports = {
     sound,
     body,
   },
+  calls,
 };
